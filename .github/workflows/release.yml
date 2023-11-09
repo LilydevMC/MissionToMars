@@ -1,0 +1,33 @@
+name: Release
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        type: string
+        description: Modpack Version
+        required: true
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    name: Release on Modrinth & GitHub Releases
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
+      WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+    steps:
+      - name: Install packwiz
+        uses: actions/setup-go@v4.1.0
+        with:
+          go-version: "1.21.3"
+      - run: go install github.com/packwiz/packwiz@latest
+      - name: Install Peony from git repository
+        uses: baptiste0928/cargo-install@v2
+        with:
+          crate: peony
+          git: https://github.com/LilydevMC/peony
+          tag: 0.2.0-223e662
+      - name: Checkout Repository Files
+        uses: actions/checkout@v4
+      - name: Create Release
+        run: peony modpack -dv ${{ github.event.inputs.version }}

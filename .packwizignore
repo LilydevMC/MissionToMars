@@ -1,0 +1,17 @@
+# exclude exported curseforge/modrinth packs
+*.zip
+*.mrpack
+
+README.md
+
+# exclude asset project files
+project_files
+
+# exclude larger asset files
+/assets
+
+# workspace/github things
+/.idea
+/.github
+.prettierrc
+mrpack.toml

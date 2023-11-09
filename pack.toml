@@ -1,0 +1,13 @@
+name = "Mission to Mars"
+author = "jadelily18"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3315dbc400c6c937e33877beaa4c88b53e5129e549e8a67e4700e3e05bd0f891"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.22.0-beta.1"
