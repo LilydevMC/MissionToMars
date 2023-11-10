@@ -2,7 +2,7 @@ config_format_version = 1
 version_name_format = "[%mc_version%] %project_name% v%project_version%"
 
 [modrinth]
-project_id = "Z59n1S3Y"
+project_id = "2ESco3oz"
 
 [github]
 repo_owner = "LilydevMC"
@@ -13,5 +13,5 @@ github_emoji_id = "<:github_light:1000525612911444118>"
 modrinth_emoji_id = "<:modrinth:1000522854766497813>"
 discord_ping_role = "<@&1000858651243843765>"
 title_emoji = "🚀"
-embed_image_url = "https://raw.githubusercontent.com/LilydevMC/CozyCreations/main/assets/project_banner.png"
-embed_color = 0xf59215
+thumbnail_image_url = "https://cdn.jsdelivr.net/gh/LilydevMC/assets/MissionToMars/assets/icon_512x.png"
+embed_color = 0xb7742f

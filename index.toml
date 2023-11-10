@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/FUNDING.yml"
-hash = "2cd9c08212f99cf82ed2d4e4807fbe95cfe39788459e72e1a05dcfe4e2044599"
-
-[[files]]
-file = ".github/workflows/release.yml"
-hash = "ee5e30cd0ed6d1a74a202098b7cf35001f84d797d13d44941885436ccc648f80"
-
-[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "5b725de6ff847aacd066f1ed40244cd1b7c5b839b071b7287fe2bbbb6aa66393"
 
@@ -25,12 +17,16 @@ file = "config/yosbr/config/modmenu.json"
 hash = "4eeaf979b4770fef4380d3f033d820379d83e719657f5f32ee2b24f5e09b1d37"
 
 [[files]]
+file = "config/yosbr/config/volubind.json5"
+hash = "c471a347c114cf001d634d3df973f49c365a59063a86c209b7e3aaee5cfd0898"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "a04078f51bde9c60ffc8b4c3c1f1828849ab473df58b40d0de825ff8371fd345"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e35beaefa5500d798a038e1653854e516c2b1e2d4dbdd2598ac5422c58644f13"
+hash = "9ae7676baf67778b5e808286999f29385ba86ccf4b436e6fe86b1a90fa934c76"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
