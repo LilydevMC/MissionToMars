@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "ad2c7b9c8586565885e1df2f484d7c9e1f99a734aaa432183856551900448474"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "5b725de6ff847aacd066f1ed40244cd1b7c5b839b071b7287fe2bbbb6aa66393"
 
@@ -78,6 +82,11 @@ hash = "7213c1f85dede9a36f77d4a0064a1c6aae79bcb4e281ae5d6d8698793ddda046"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+metafile = true
+
+[[files]]
 file = "mods/blahaj.pw.toml"
 hash = "9c3fa6643bf554a030040c80f6397d1cb3b40b460b3dcb72277d83e3a6ee72a2"
 metafile = true
@@ -148,8 +157,18 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "9884c9af4ba83cbdf8bc6b102a257068566641a17d2c6dde63dcf41d0dd0603e"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "4c59088a2cb975f60347da57d72bb1069b65452c6a7b92af8facec6e1bed9409"
 metafile = true
 
 [[files]]
@@ -165,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/exordium.pw.toml"
 hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
 metafile = true
 
 [[files]]
