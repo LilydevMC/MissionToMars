@@ -38,13 +38,28 @@ hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
 
 [[files]]
+file = "mods/ad-astra-giselle-addon.pw.toml"
+hash = "a47a72dfb4debbde2ea8e693e0990fa64261b18a97444cfd66b06e95d173055d"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "ff786550ebc945232c072bd3011919ab9fef52baf819705309d67c961332b604"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "58f9b55c0998e0df2eaeea259e1bd181a3c4eb93f32824bdac565cec66f94880"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "b0e70adfb7f19c394fcc2b862839f3cb70be027cba275c2e7ff42b7aad75bfc1"
 metafile = true
 
 [[files]]
@@ -105,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "7315f8be08ca7069ed72746d12e36e81b7959136d0b0c789e16cdb5db8a87dfe"
 metafile = true
 
 [[files]]
@@ -343,6 +363,11 @@ hash = "3decc297ef37c1ecb820b095d076dfa04e5c2d16a29e165f27c911a80d2e4afd"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
+metafile = true
+
+[[files]]
 file = "mods/things.pw.toml"
 hash = "d64f9f83a62065408e07264e23026c3ceea8d9ee762503e35786f7c2b793579a"
 metafile = true
@@ -355,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "8236569e1e8aac24dec8b22da3a67cf656260daec478e463dc8c904b18d909bd"
 metafile = true
 
 [[files]]
