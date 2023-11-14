@@ -21,6 +21,10 @@ file = "config/yosbr/config/modmenu.json"
 hash = "4eeaf979b4770fef4380d3f033d820379d83e719657f5f32ee2b24f5e09b1d37"
 
 [[files]]
+file = "config/yosbr/config/travelersbackpack.json5"
+hash = "2b040d651903570a2a0529043f4bff658add64131c3d345c6f6e5035f1ec3814"
+
+[[files]]
 file = "config/yosbr/config/volubind.json5"
 hash = "c471a347c114cf001d634d3df973f49c365a59063a86c209b7e3aaee5cfd0898"
 
@@ -322,6 +326,11 @@ hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "fd1861c2fbfac935ba6829d64dfa9ea73119fd73681446bca3468badfed5be4c"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
 metafile = true
@@ -369,11 +378,6 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "ca636f50faa18c478ea2a61be17383997bf70fe215a3e7b742b3d92dba87ece4"
 metafile = true
 
 [[files]]
