@@ -1,6 +1,6 @@
 name = "Mission to Mars"
 author = "jadelily18"
-version = "1.0.0"
+version = "1.0.0-plasmo-test"
 pack-format = "packwiz:1.1.0"
 
 [index]
