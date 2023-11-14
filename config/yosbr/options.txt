@@ -14,7 +14,5 @@ key_key.itemswapper.itemswitcher:key.keyboard.y
 key_key.showmeyourskin.open_settings:key.keyboard.h
 key_key.showmeyourskin.global_toggle:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.caps.lock
-key_key.push_to_talk:key.keyboard.v
-key_key.voice_chat_group:key.keyboard.unknown
+key_key.plasmovoice.settings:key.keyboard.caps.lock
 key_gui.xaero_minimap_settings:key.keyboard.i
