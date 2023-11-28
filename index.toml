@@ -9,6 +9,10 @@ file = "LICENSE"
 hash = "ad2c7b9c8586565885e1df2f484d7c9e1f99a734aaa432183856551900448474"
 
 [[files]]
+file = "MODRINTH.md"
+hash = "3420865e8ea5452a27647a179e81dd2aecced300462f496dac9bfe8f2d1991d2"
+
+[[files]]
 file = "config/yosbr/config/betterf3.json"
 hash = "5b725de6ff847aacd066f1ed40244cd1b7c5b839b071b7287fe2bbbb6aa66393"
 
