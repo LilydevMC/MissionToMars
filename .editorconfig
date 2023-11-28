@@ -1,0 +1,7 @@
+[*]
+end_of_line = lf
+charset = utf-8
+
+[*.{json,mcmeta}]
+indent_style = tab
+indent_size = 4

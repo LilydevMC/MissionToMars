@@ -5,3 +5,6 @@
 
 # exclude Affinity Photo lock files
 **/*.afphoto~lock~
+
+# ignore resource pack icon
+**/icon.png

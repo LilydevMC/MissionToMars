@@ -15,3 +15,15 @@ project_files
 /.github
 .prettierrc
 mrpack.toml
+
+# exclude scripts
+/scripts
+
+# exclude unzipped resource pack
+/resourcepacks/mission-to-mars-fixes
+
+# allow resource packs in /resourcepacks
+!/resourcepacks/**.zip
+
+# ignore resource pack icon
+**/icon.png

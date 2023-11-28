@@ -29,5 +29,9 @@ jobs:
           tag: 0.2.0-223e662
       - name: Checkout Repository Files
         uses: actions/checkout@v4
+      - name: Export fixes resource pack
+        run: chmod +x ./scripts/export_resource_pack.sh && ./scripts/export_resource_pack.sh
+      - name: Clean up fixes resource pack
+        uses: rm -r ./resourcepacks/mission-to-mars-fixes
       - name: Create Release
         run: peony modpack -dv ${{ github.event.inputs.version }}

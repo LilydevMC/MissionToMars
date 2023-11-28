@@ -1,7 +1,7 @@
 version:3465
 
 quilt_available_resource_packs:["axolotlbuckets/axolotl-buckets-small","black_icons","classic_icons","continuity/default","continuity/glass_pane_culling_fix","create/legacy_copper","enchancement/alternate_dash","file/cubic-sun-moon-v1-6-1.zip","high_contrast","itemswapper/classic","itemswapper/default","lambdabettergrass/default","programmer_art","vanilla","white_icons"]
-resourcePacks:["vanilla","itemswapper/default","lambdabettergrass/default","axolotlbuckets/axolotl-buckets-small","continuity/default","continuity/glass_pane_culling_fix","file/cubic-sun-moon-v1-6-1.zip"]
+resourcePacks:["vanilla","itemswapper/default","lambdabettergrass/default","axolotlbuckets/axolotl-buckets-small","continuity/default","continuity/glass_pane_culling_fix","file/cubic-sun-moon-v1-7a.zip","file/mission-to-mars-fixes.zip"]
 
 enableVsync:false
 fullscreen:true

@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".editorconfig"
+hash = "fa3a6169d0b4d64d6cb11e906d0c26c344d2167cded44768ccfe9ed4e9dde47d"
+
+[[files]]
 file = "LICENSE"
 hash = "ad2c7b9c8586565885e1df2f484d7c9e1f99a734aaa432183856551900448474"
 
@@ -38,7 +42,7 @@ hash = "a04078f51bde9c60ffc8b4c3c1f1828849ab473df58b40d0de825ff8371fd345"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ecdc91e802c3f648478660fba08111a8ec24205c81f6f47760ca2d8450d40a3f"
+hash = "3ec674a51608aebddfb35ceb816fab5f0d80d98ca86d88c1a22e789069a1d80c"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
@@ -623,6 +627,10 @@ metafile = true
 file = "resourcepacks/cubic-sun-moon.pw.toml"
 hash = "35119a0dd84806ea5baa5adcdf4c3e61351e6c8b21bae0055024fad3b439f4f6"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mission-to-mars-fixes.zip"
+hash = "ad517fb10c55bae7288558c8111c0d74b061350fdc813a59a6761e605d189ea8"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
