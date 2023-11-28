@@ -174,6 +174,11 @@ hash = "7315f8be08ca7069ed72746d12e36e81b7959136d0b0c789e16cdb5db8a87dfe"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "ca80c183f9444b19fcd7e5e654dad1c7b208affe18f7e6c2cff42642e8c3951f"
+metafile = true
+
+[[files]]
 file = "mods/disenchanter.pw.toml"
 hash = "67c7669b86fc38d805f5714641d44fb0ffbe752230135de97083bdf37191b271"
 metafile = true
