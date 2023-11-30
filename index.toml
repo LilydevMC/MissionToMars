@@ -42,7 +42,11 @@ hash = "c471a347c114cf001d634d3df973f49c365a59063a86c209b7e3aaee5cfd0898"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "a04078f51bde9c60ffc8b4c3c1f1828849ab473df58b40d0de825ff8371fd345"
+hash = "e0c181a56c23d84e14cd9f9b3676dc33bfe9582bc56e9c4145e4433e83274465"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "da2ffe74b048d814b85d0e923321d01685b0f328eb9655a41485bbe0a2ffd8dc"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -148,6 +152,11 @@ hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "9c5b2ccf44210ccfd17b8f39e1fe5d7cb27e0acc78abecc855917ac5a3b7c2b5"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
@@ -190,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/do-api.pw.toml"
 hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "c56ae338249990a510c4479047c812cf320e5b3cf92833876fb43d846dc602ad"
 metafile = true
 
 [[files]]
